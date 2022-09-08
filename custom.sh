@@ -1,3 +1,3 @@
  #!/bin/sh
 
-echo "Hello CICD in GitHub"
+echo "Hello CICD workflow in GitHub"
